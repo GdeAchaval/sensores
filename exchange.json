@@ -1,1 +1,6 @@
-{"main":"sensores.raml","name":"sensores","classifier":"raml","tags":[]}
+{
+  "main": "sensores.raml",
+  "name": "sensores",
+  "classifier": "raml",
+  "tags": []
+}
